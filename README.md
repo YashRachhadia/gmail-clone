@@ -5,7 +5,7 @@
 ![AppImage](public/AppImage.JPG)
 
 - The app is the UI clone of gmail app made using React. Uses react with functional components, Firebase's **Google authentication**,
-  **Firestore Database**, **Redux**, **Material UI icons (version 5.6)**, **React Router (version 6)**.
+  **Firestore Database**, **Redux**, **Material UI icons (version 5.6)**, **React Router (version 6)** and **React hook form**.
 
 - The code follows best practices with modular and organized code. Also uses BEM naming convention for CSS as the best practice.
 
